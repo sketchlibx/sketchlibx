@@ -1,62 +1,64 @@
 <h1 align="center">Sahil Arya</h1>
-<h3 align="center">Android Developer | UI Component Creator | Tool Builder</h3>
+<h3 align="center">Android Developer • UI/UX Builder • Creator of SketchLib</h3><p align="center">
+  Crafting <b>modern Android UI components</b>, <b>developer tools</b>, and <b>high-performance libraries</b> for real-world apps.
+</p>---
 
-<p align="center">
-  Focused on building reusable UI components, developer tools, and clean Android interfaces.
-</p>
+👨‍💻 About Me
+
+I build powerful Android libraries and developer tools under the <b>SketchLib</b> ecosystem — focused on <b>simplicity, performance, and real usability</b>.
+
+I believe great apps come from clean architecture + smooth UI + developer-friendly design.
+
+What I focus on:
+
+- ⚡ Building plug-and-play UI components
+- 🎯 Designing smooth & modern user experiences
+- 🧩 Creating reusable developer tools
+- 🏗️ Writing clean, scalable Android code
 
 ---
 
-## 👨‍💻 About Me
+🚀 What Makes My Work Different
 
-I build Android libraries and developer utilities under the **SketchLib** project. My work focuses on building components that are **easy to integrate**, **lightweight**, and **useful in real-world Android applications**.
-
-**Areas I enjoy working on:**
-- 📐 **Android UI Architecture:** Structuring clean, maintainable, and scalable app interfaces.
-- 🎨 **Custom UI Components:** Creating bespoke views and smooth animations from scratch.
-- 🖼️ **Material Design:** Implementing modern Android design systems (M3) flawlessly.
-- 🛠️ **Developer Tools:** Boosting productivity with utilities and clean code generators.
+- ✨ Minimal, clean & production-ready code
+- ⚙️ Easy integration (no unnecessary complexity)
+- 📦 Lightweight & optimized components
+- 🎨 Focused on real app use-cases (not just demos)
 
 ---
 
-## 💻 Tech Stack
+💻 Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Material%20Design-0081CB?style=for-the-badge&logo=material-design&logoColor=white" alt="Material Design" />
-  <img src="https://img.shields.io/badge/Git_&_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material%203-0081CB?style=for-the-badge&logo=material-design&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%2FUX-000000?style=for-the-badge&logo=figma&logoColor=white" />
+</p>---
 
----
-
-## 🚀 Selected Projects
+🌟 Featured Projects
 
 <p align="center">
   <a href="https://github.com/sketchlibx/Sketch-Dialog">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sketchlibx&repo=Sketch-Dialog&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="Sketch-Dialog"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sketchlibx&repo=Sketch-Dialog&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
   </a>
   <a href="https://github.com/sketchlibx/SketchSlider">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sketchlibx&repo=SketchSlider&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="SketchSlider"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sketchlibx&repo=SketchSlider&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
   </a>
-</p>
+</p>---
 
----
-
-## 📊 GitHub Stats
+📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sketchlibx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sketchlibx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages">
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=sketchlibx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sketchlibx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165">
+</p>---
 
----
-
-## 📫 Contact & Links
+📫 Connect With Me
 
 <p align="left">
   <a href="https://github.com/sketchlibx">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  </p>
+</p>
