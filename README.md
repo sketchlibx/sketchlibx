@@ -1,99 +1,116 @@
 <div align="center">
 
-# SketchLibX
+# 👋 Hi, I'm Sahil Arya
 
-### Building Modern Android Apps, Libraries & Developer Tools
+### Android Developer • Open Source Contributor • Founder of SketchLibX
 
-Open-source Android projects focused on beautiful UI, performance, productivity, and developer experience.
+Building modern Android Apps, Libraries, Developer Tools, and UI Components.
 
-![Android](https://img.shields.io/badge/Android-Development-3DDC84?style=for-the-badge&logo=android)
-![Java](https://img.shields.io/badge/Java-Primary-orange?style=for-the-badge&logo=openjdk)
-![Kotlin](https://img.shields.io/badge/Kotlin-Supported-7F52FF?style=for-the-badge&logo=kotlin)
-![Material 3](https://img.shields.io/badge/Material%203-Modern-blue?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=sketchlibx&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/sketchlibx?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/sketchlibx?affiliations=OWNER&style=for-the-badge)
 
 </div>
 
 ---
 
-# 🚀 About
+# 🚀 About Me
 
-SketchLibX is an open-source Android development organization dedicated to building high-quality Android applications, reusable libraries, developer tools, UI components, templates, and utilities.
+I'm an Android developer passionate about building high-quality applications, reusable libraries, developer tools, and open-source projects.
 
-Our goal is to create software that is clean, scalable, lightweight, and easy to integrate into real-world Android projects.
+My focus is on creating software that is:
+
+- ✨ Clean and Modern
+- ⚡ Fast and Lightweight
+- 🎨 Material Design 3
+- 📱 Production Ready
+- 🧩 Reusable
+- ❤️ Open Source
 
 ---
 
-# ✨ What We Build
+# 💼 What I Build
 
 - 📱 Android Applications
 - 📦 Android Libraries
-- 🛠️ Developer Tools
+- 🛠 Developer Tools
 - 🎨 Material 3 UI Components
 - 🧩 Custom Views
-- 📚 Starter Templates
-- ⚡ Productivity Utilities
 - 🔥 Firebase Solutions
-- 🚀 Open Source Projects
+- 📚 Open Source Projects
+- 🚀 Productivity Utilities
 
 ---
 
-# 💙 Core Principles
+# 🛠 Tech Stack
 
-- Clean Architecture
-- Modern Android Development
-- Material Design 3
-- Performance First
-- Reusable Components
-- Developer Friendly APIs
-- Open Source
-- Real-World Solutions
-
----
-
-# 🛠️ Tech Stack
+### Languages
 
 - Java
 - Kotlin
+
+### Android
+
 - Android SDK
-- Jetpack Libraries
+- Jetpack
 - Material Design 3
+- XML UI
+- Custom Views
+
+### Backend & Services
+
 - Firebase
+- REST APIs
+
+### Tools
+
+- Android Studio
+- Git
+- GitHub
 - Gradle
-- Git & GitHub
 
 ---
 
-# 🤝 Contributing
+# 📊 GitHub Stats
 
-Contributions are always welcome.
+<p align="center">
 
-1. Fork the repository.
-2. Create a feature branch.
-3. Commit your changes.
-4. Submit a Pull Request.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sketchlibx&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-Please follow clean coding practices and provide proper documentation.
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sketchlibx&layout=compact&theme=tokyonight&hide_border=true"/>
 
----
-
-# 🌟 Vision
-
-Our vision is to build a complete Android development ecosystem by providing high-quality applications, libraries, SDKs, tools, templates, and reusable components for developers around the world.
+</p>
 
 ---
 
-# ⭐ Support
+# 🎯 Current Focus
 
-If you find SketchLibX useful, consider giving the repository a ⭐.
+- Building Android Apps
+- Developing Open Source Libraries
+- Creating Developer Tools
+- Improving UI/UX
+- Learning New Android Technologies
 
-Your support helps the project grow and motivates future development.
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/sketchlibx">
+<img src="https://img.shields.io/badge/GitHub-sketchlibx-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### Build Once • Create More • Share Openly
+### ⭐ Building Better Android Experiences
 
-Made with ❤️ by **SketchLibX**
+**Founder • SketchLibX**
+
+Made with ❤️ using Java & Android
 
 </div>
