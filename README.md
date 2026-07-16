@@ -1,42 +1,99 @@
-<h1 align="center">Sahil Arya</h1><p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=229C43&center=true&vCenter=true&width=500&lines=Android+Developer+%26+UI+Engineer;Building+SketchLib+Ecosystem;Clean+UI+%E2%80%A2+Reusable+Components;Focused+on+Real+World+Apps" />
-  </a>
-</p>---
+<div align="center">
 
-Core Work
+# SketchLibX
 
-* SketchLib – Android UI library focused on reusable and clean components for real apps
-* Sketch Dialog – Simple and flexible dialog system with modern UI
-* Sketch Slider – Lightweight and customizable slider component for Android
+### Building Modern Android Apps, Libraries & Developer Tools
 
----
+Open-source Android projects focused on beautiful UI, performance, productivity, and developer experience.
 
-Technical Skills
+![Android](https://img.shields.io/badge/Android-Development-3DDC84?style=for-the-badge&logo=android)
+![Java](https://img.shields.io/badge/Java-Primary-orange?style=for-the-badge&logo=openjdk)
+![Kotlin](https://img.shields.io/badge/Kotlin-Supported-7F52FF?style=for-the-badge&logo=kotlin)
+![Material 3](https://img.shields.io/badge/Material%203-Modern-blue?style=for-the-badge)
 
-* Languages: Java (Primary), Kotlin (Learning)
-* Android: UI Components, Custom Views, Material 3
-* Tools: Firebase, Git, Android Studio
-* Focus Area: UI/UX + Performance + Clean Code
+</div>
 
 ---
 
-What I Actually Do
+# 🚀 About
 
-* Build UI components that developers can directly use in projects
-* Focus on simple integration without unnecessary setup
-* Write clean and readable code, not over-engineered solutions
-* Work on ideas that are useful in real applications
+SketchLibX is an open-source Android development organization dedicated to building high-quality Android applications, reusable libraries, developer tools, UI components, templates, and utilities.
+
+Our goal is to create software that is clean, scalable, lightweight, and easy to integrate into real-world Android projects.
 
 ---
 
-GitHub Stats
+# ✨ What We Build
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sketchlibx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sketchlibx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165">
-</p>---
+- 📱 Android Applications
+- 📦 Android Libraries
+- 🛠️ Developer Tools
+- 🎨 Material 3 UI Components
+- 🧩 Custom Views
+- 📚 Starter Templates
+- ⚡ Productivity Utilities
+- 🔥 Firebase Solutions
+- 🚀 Open Source Projects
 
-<p align="center">
-  <a href="https://github.com/sketchlibx">GitHub</a>
-</p>
+---
+
+# 💙 Core Principles
+
+- Clean Architecture
+- Modern Android Development
+- Material Design 3
+- Performance First
+- Reusable Components
+- Developer Friendly APIs
+- Open Source
+- Real-World Solutions
+
+---
+
+# 🛠️ Tech Stack
+
+- Java
+- Kotlin
+- Android SDK
+- Jetpack Libraries
+- Material Design 3
+- Firebase
+- Gradle
+- Git & GitHub
+
+---
+
+# 🤝 Contributing
+
+Contributions are always welcome.
+
+1. Fork the repository.
+2. Create a feature branch.
+3. Commit your changes.
+4. Submit a Pull Request.
+
+Please follow clean coding practices and provide proper documentation.
+
+---
+
+# 🌟 Vision
+
+Our vision is to build a complete Android development ecosystem by providing high-quality applications, libraries, SDKs, tools, templates, and reusable components for developers around the world.
+
+---
+
+# ⭐ Support
+
+If you find SketchLibX useful, consider giving the repository a ⭐.
+
+Your support helps the project grow and motivates future development.
+
+---
+
+<div align="center">
+
+### Build Once • Create More • Share Openly
+
+Made with ❤️ by **SketchLibX**
+
+</div>
