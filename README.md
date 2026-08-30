@@ -1,103 +1,50 @@
 <div align="center">
 
-# 👋 Hi, I'm Sahil Arya
+<img
+  src="https://raw.githubusercontent.com/sketchlibx/sketchlibx/main/dist/github-jet.svg"
+  alt="GitHub Jet Heatmap"
+  width="100%"
+/>
 
-### Android Developer • B.Tech CSE Data Science Student • Founder of SketchLibX
+# Sahil Arya
 
-Building modern Android Apps, Libraries, Developer Tools, and UI Components.
+**Android Developer** · Founder, SketchLibX
 
-![Profile Views](https://komarev.com/ghpvc/?username=sketchlibx&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/sketchlibx?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/sketchlibx?affiliations=OWNER&style=for-the-badge)
+Building offline-first Android apps and open-source developer tools in Java, with Sketchware Neo/Pro and Android Studio.
 
-</div>
-
----
-
-# 🚀 About Me
-
-I'm an Android developer and computer science student passionate about building high-quality applications, reusable libraries, developer tools, and open-source projects.
-
-- 🎓 Currently pursuing a **B.Tech in Computer Science and Engineering (Data Science)**.
-- 🎨 Passionate about crafting intuitive UIs using **Material Design 3** and custom views.
-- 💡 Actively customizing open-source IDEs like Sketchware Neo/Pro.
-- ✨ Focused on creating software that is fast, lightweight, and production-ready.
-
----
-
-# 💻 Tech Stack & Tools
-
-### Mobile Development
-- **Languages:** Java, Kotlin
-- **Android:** Android SDK, Jetpack, Material Design 3, XML UI, View Binding, Custom Views
-
-### Web & Backend
-- **Web:** HTML, CSS, JavaScript, Three.js, PHP
-- **Backend/DB:** Firebase (Realtime Database), REST APIs
-- **Core:** C Programming
-
-### Tools
-- Android Studio, IntelliJ, Git, GitHub, Gradle
-
----
-
-# ✈️ My GitHub Contributions
-
-<a href="https://github.com/sketchlibx">
-  <picture>
-    <!-- Use raw.githubusercontent.com for SVGs if you have dark/light versions in your repo -->
-    <!-- For simplicity, using github stats card layout as placeholder for the frame -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sketchlibx/sketchlibx/main/dark.svg">
-    <img alt="GitHub Profile Frame" src="https://raw.githubusercontent.com/sketchlibx/sketchlibx/main/light.svg">
-  </picture>
-  <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/sketchlibx/sketchlibx/main/dist/github-jet.svg"
-    alt="GitHub Jet Heatmap"
-    width="100%"
-  />
-</p>
-</a>
-
----
-
-# 🛠 Highlighted Projects & Work
-
-Here are a few things I build and contribute to:
-
-- 📱 **Spicky:** A comprehensive Android food and grocery delivery application.
-- 📦 **Sketch Dialog:** An open-source Android library providing Material Design 3 and classic alert/progress dialogs.
-- 🤖 **JarvisBrain:** An Android accessibility and voice processing component with OpenAI API integration.
-- 🎮 **Interactive Web Utilities:** Developing responsive web applications like GST cash receipt generators and 3D browser games.
-- 🧩 **SketchLibX Components:** Developing reusable Material 3 UI components and developer tools.
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sketchlibx&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sketchlibx&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-<a href="https://github.com/sketchlibx">
-<img src="https://img.shields.io/badge/GitHub-sketchlibx-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
-
----
-
-<div align="center">
-
-### ⭐ Building Better Android Experiences
-
-**Founder • SketchLibX**
-
-Made with ❤️ using Java & Android
+![Profile Views](https://komarev.com/ghpvc/?username=sketchlibx&style=flat-square)
+![Followers](https://img.shields.io/github/followers/sketchlibx?style=flat-square)
+![Stars](https://img.shields.io/github/stars/sketchlibx?affiliations=OWNER&style=flat-square)
 
 </div>
+
+---
+
+## About
+
+I build production-grade Android apps end to end — architecture, offline storage, monetization, and polished Material Design 3 UI. Most of my work is in Java, spanning both Android Studio and Sketchware Neo/Pro, where I also contribute fixes upstream.
+
+## Featured Work
+
+- **Khata Book** — offline-first ledger app for small businesses, built with Room (WAL), DataStore, WorkManager, encrypted PIN-based app lock, and MPAndroidChart reports.
+- **Watch Ads & Earn** — rewarded-ads Android app with AdMob + Unity Ads integration and local coin tracking, no backend required.
+- **SketchLibX** — libraries and developer tools for the Sketchware Neo/Pro ecosystem.
+- **Universe Master Course** — an open-source Hinglish astronomy & modern physics textbook project.
+
+## Tech Stack
+
+`Java` `Android SDK` `Sketchware Neo/Pro` `Room` `WorkManager` `DataStore` `Material Design 3` `Firebase` `AdMob / Unity Ads` `Git`
+
+## GitHub Stats
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sketchlibx&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sketchlibx&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+## Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-sketchlibx-181717?style=flat-square&logo=github)](https://github.com/sketchlibx)
+[![Website](https://img.shields.io/badge/Website-sketchlib.in-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://sketchlib.in)
+[![YouTube](https://img.shields.io/badge/YouTube-TechnoSahilOfficial-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@TechnoSahilOfficial)
+
