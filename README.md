@@ -33,7 +33,17 @@ I build production-grade Android apps end to end — architecture, offline stora
 
 ## Tech Stack
 
-`Java` `Android SDK` `Sketchware Neo/Pro` `Room` `WorkManager` `DataStore` `Material Design 3` `Firebase` `AdMob / Unity Ads` `Git`
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Material%20Design%203-757575?style=for-the-badge&logo=materialdesign&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
+</p>
+
+**Android:** Room · WorkManager · DataStore · Sketchware Neo/Pro
+**Monetization:** AdMob · Unity Ads
 
 ## GitHub Stats
 
